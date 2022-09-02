@@ -1,0 +1,16 @@
+payload:
+  - DOMAIN-SUFFIX,xn--2vrub.plus
+  - DOMAIN-SUFFIX,qiu.moe
+  - DOMAIN-SUFFIX,xn--2vrub.icu
+  - DOMAIN-SUFFIX,xn--n4y597a0mfle743a.icu
+  - DOMAIN-SUFFIX,kirara-fantasia.moe
+  - DOMAIN-SUFFIX,tuturu.top
+  - DOMAIN-SUFFIX,xn--7rv796dvkm.xn--6qq986b3xl
+  - DOMAIN-SUFFIX,xn--7ovr3tf1cxr4d.fun
+  - DOMAIN-SUFFIX,xn--8fv56a330gjea.icu
+  - DOMAIN-SUFFIX,atri.ink
+  - DOMAIN-SUFFIX,xn--oor00vs23b.icu
+  - DOMAIN-SUFFIX,pch.pub
+  - DOMAIN-SUFFIX,melusinesuki.site
+  - DOMAIN-SUFFIX,takami.ink
+  - DOMAIN-SUFFIX,xn--pss86iy70c.icu
