@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,appcenter.ms
   - DOMAIN-SUFFIX,ehviewer.com
   - DOMAIN-SUFFIX,hath.network
+  - DOMAIN-SUFFIX,speedtest.net
   - IP-CIDR,3.219.96.23/32
   - IP-CIDR,37.48.89.44/32
   - IP-CIDR,40.70.161.7/32
