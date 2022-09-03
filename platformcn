@@ -1,0 +1,33 @@
+# NAME: BiliBili coolapk weibo
+# AUTHOR: FengYL
+# UPDATED: 2022-08-20 18:13:34
+# DOMAIN: 17
+# IP-CIDR: 6
+payload:
+#bilibili
+  - DOMAIN,grpc.biliapi.net
+  - DOMAIN,api.bilibili.com
+  - DOMAIN,www.bilibili.com
+  - DOMAIN,app.bilibili.com
+  - DOMAIN,cm.bilibili.com
+  - DOMAIN,passport.bilibili.com
+  - DOMAIN,member.bilibili.com
+  - DOMAIN,line3-h5-mobile-api.biligame.com
+  - DOMAIN,mall.bilibili.com
+  - DOMAIN,api.live.bilibili.com
+  - DOMAIN,api.vc.bilibili.com
+  - DOMAIN,broadcast.chat.bilibili.com
+#酷安  
+  - DOMAIN,api.coolapk.com
+  - DOMAIN,api2.coolapk.com
+#贴吧
+  - DOMAIN,www.baidu.com
+  - DOMAIN,tiebapic.baidu.com
+#微博  
+  - DOMAIN-SUFFIX,api.weibo.cn
+  - IP-CIDR,117.21.179.0/25
+  - IP-CIDR,119.3.33.0/25
+  - IP-CIDR,39.156.150.0/25
+  - IP-CIDR,119.3.32.0/25
+  - IP-CIDR,120.92.83.0/25
+  - IP-CIDR,203.107.1.65/32
