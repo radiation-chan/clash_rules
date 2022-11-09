@@ -14,3 +14,4 @@ payload:
   - DOMAIN-SUFFIX,melusinesuki.site
   - DOMAIN-SUFFIX,takami.ink
   - DOMAIN-SUFFIX,xn--pss86iy70c.icu
+  - DOMAIN-SUFFIX,xn--ltrp2i.store
